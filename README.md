@@ -7,7 +7,7 @@ This is a collection of guides for various tasks in bioinformatics for Populatio
 
 ## Index
 ### General
-* **UsingGit**: *(not uploaded)* An introduction to Git and its more common tasks. 
+* **pongGuide**: How to prepare data for pong and plot the results. 
 
 ### Data Format Conversions
 * **beagle3xVCF**: How to convert Beagle3 files to VCF and re-phase them.
