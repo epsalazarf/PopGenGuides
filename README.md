@@ -8,6 +8,7 @@ This is a collection of guides for various tasks in bioinformatics for Populatio
 ## Index
 ### General
 * **pongGuide**: How to prepare data for pong and plot the results. 
+* **TreeMix**: How to use TreeMix. 
 
 ### Data Format Conversions
 * **beagle3xVCF**: How to convert Beagle3 files to VCF and re-phase them.
